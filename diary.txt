@@ -10,4 +10,6 @@ entry 5: this is different
 
 entry 6: i would like to keep things on the local machine.
 
-entry 7: i like things better this way. 
+entry 7: i like things better this way.
+
+entry 8: this is a different change online.
