@@ -1,3 +1,5 @@
 this is now my new diary for testing version control with GIT
 
 entry 2: this is an example of updating the file
+
+entry 3: this is a second update
