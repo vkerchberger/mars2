@@ -6,4 +6,4 @@ entry 3: this is a second update
 
 entry 4: this is the third update
 
-entry 5: i'm trying to change the file remotely on github and locally.
+entry 5: this is different
