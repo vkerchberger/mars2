@@ -5,3 +5,5 @@ entry 2: this is an example of updating the file
 entry 3: this is a second update
 
 entry 4: this is the third update
+
+entry 5: this is different
